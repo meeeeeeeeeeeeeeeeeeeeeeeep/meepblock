@@ -1,0 +1,52 @@
+Uri: https://cdn.jsdelivr.net/gh/gertdoro/SQLite4Unity3d@eda39654f6ca782386c5d8c43677a36873fc1319/Example/Assets/js/sb.js
+File Name: C:\Downloaded Web Sites\images-opensocial.googleusercontent.com\gh\gertdoro\SQLite4Unity3d@eda39654f6ca782386c5d8c43677a36873fc1319\Example\Assets\js\sb.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/gh/lee2sman/everyday@d45d601d2c4d60adf809a0b677c00b7d12aba7e9/96/TemplateData/UnityProgress.js
+File Name: C:\Downloaded Web Sites\images-opensocial.googleusercontent.com\gh\lee2sman\everyday@d45d601d2c4d60adf809a0b677c00b7d12aba7e9\96\TemplateData\UnityProgress.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/gh/paigerodeghero/academicwebsite@897c910c65e6c68b04c44a6b6eba0b99d0f2f2cf/TemplateData/fullscreen.png
+File Name: C:\Downloaded Web Sites\images-opensocial.googleusercontent.com\gh\paigerodeghero\academicwebsite@897c910c65e6c68b04c44a6b6eba0b99d0f2f2cf\TemplateData\fullscreen.png
+Content Type: image/png
+
+Uri: https://cdn.jsdelivr.net/gh/paigerodeghero/academicwebsite@897c910c65e6c68b04c44a6b6eba0b99d0f2f2cf/TemplateData/progressEmpty.Dark.png
+File Name: C:\Downloaded Web Sites\images-opensocial.googleusercontent.com\gh\paigerodeghero\academicwebsite@897c910c65e6c68b04c44a6b6eba0b99d0f2f2cf\TemplateData\progressEmpty.Dark.png
+Content Type: image/png
+
+Uri: https://cdn.jsdelivr.net/gh/paigerodeghero/academicwebsite@897c910c65e6c68b04c44a6b6eba0b99d0f2f2cf/TemplateData/progressEmpty.Light.png
+File Name: C:\Downloaded Web Sites\images-opensocial.googleusercontent.com\gh\paigerodeghero\academicwebsite@897c910c65e6c68b04c44a6b6eba0b99d0f2f2cf\TemplateData\progressEmpty.Light.png
+Content Type: image/png
+
+Uri: https://cdn.jsdelivr.net/gh/paigerodeghero/academicwebsite@897c910c65e6c68b04c44a6b6eba0b99d0f2f2cf/TemplateData/progressFull.Dark.png
+File Name: C:\Downloaded Web Sites\images-opensocial.googleusercontent.com\gh\paigerodeghero\academicwebsite@897c910c65e6c68b04c44a6b6eba0b99d0f2f2cf\TemplateData\progressFull.Dark.png
+Content Type: image/png
+
+Uri: https://cdn.jsdelivr.net/gh/paigerodeghero/academicwebsite@897c910c65e6c68b04c44a6b6eba0b99d0f2f2cf/TemplateData/progressFull.Light.png
+File Name: C:\Downloaded Web Sites\images-opensocial.googleusercontent.com\gh\paigerodeghero\academicwebsite@897c910c65e6c68b04c44a6b6eba0b99d0f2f2cf\TemplateData\progressFull.Light.png
+Content Type: image/png
+
+Uri: https://cdn.jsdelivr.net/gh/paigerodeghero/academicwebsite@897c910c65e6c68b04c44a6b6eba0b99d0f2f2cf/TemplateData/progressLogo.Dark.png
+File Name: C:\Downloaded Web Sites\images-opensocial.googleusercontent.com\gh\paigerodeghero\academicwebsite@897c910c65e6c68b04c44a6b6eba0b99d0f2f2cf\TemplateData\progressLogo.Dark.png
+Content Type: image/png
+
+Uri: https://cdn.jsdelivr.net/gh/paigerodeghero/academicwebsite@897c910c65e6c68b04c44a6b6eba0b99d0f2f2cf/TemplateData/progressLogo.Light.png
+File Name: C:\Downloaded Web Sites\images-opensocial.googleusercontent.com\gh\paigerodeghero\academicwebsite@897c910c65e6c68b04c44a6b6eba0b99d0f2f2cf\TemplateData\progressLogo.Light.png
+Content Type: image/png
+
+Uri: https://cdn.jsdelivr.net/gh/paigerodeghero/academicwebsite@897c910c65e6c68b04c44a6b6eba0b99d0f2f2cf/TemplateData/style.css
+File Name: C:\Downloaded Web Sites\images-opensocial.googleusercontent.com\gh\paigerodeghero\academicwebsite@897c910c65e6c68b04c44a6b6eba0b99d0f2f2cf\TemplateData\style.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/gh/paigerodeghero/academicwebsite@897c910c65e6c68b04c44a6b6eba0b99d0f2f2cf/TemplateData/webgl-logo.png
+File Name: C:\Downloaded Web Sites\images-opensocial.googleusercontent.com\gh\paigerodeghero\academicwebsite@897c910c65e6c68b04c44a6b6eba0b99d0f2f2cf\TemplateData\webgl-logo.png
+Content Type: image/png
+
+Uri: https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/gertdoro/SQLite4Unity3d@8516fc0bd1d2be662ca484f5dc506268b24763ef/Example/Assets/snowball.xml&container=ig
+File Name: C:\Downloaded Web Sites\images-opensocial.googleusercontent.com\gadgets\ifr.html
+Content Type: text/html
+
+Uri: https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/addc4348-16c2-4645-9dff-f99b962e39ef%2Fscr.js
+File Name: C:\Downloaded Web Sites\images-opensocial.googleusercontent.com\production-assetsbucket-8ljvyr1xczmb\addc4348-16c2-4645-9dff-f99b962e39efscr.js
+Content Type: text/javascript
+

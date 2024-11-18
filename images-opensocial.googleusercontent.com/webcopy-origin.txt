@@ -1,0 +1,8 @@
+Uri: https://images-opensocial.googleusercontent.com/gadgets/ifr?container=ig&url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/9ecda005-11e9-4b52-ab9e-700b4d46d00f/color.xml
+File Name: C:\Downloaded Web Sites\images-opensocial.googleusercontent.com\gadgets\ifr.html
+Content Type: text/html
+
+Uri: https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/addc4348-16c2-4645-9dff-f99b962e39ef%2Fscr.js
+File Name: C:\Downloaded Web Sites\images-opensocial.googleusercontent.com\production-assetsbucket-8ljvyr1xczmb\addc4348-16c2-4645-9dff-f99b962e39efscr.js
+Content Type: text/javascript
+

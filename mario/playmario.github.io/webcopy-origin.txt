@@ -1,0 +1,372 @@
+Uri: https://playmario.github.io/HTML5_Client/
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\index.htm
+Content Type: text/html
+
+Uri: https://playmario.github.io/HTML5_Client/assets/index.min.css
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\assets\index.min.css
+Content Type: text/css
+
+Uri: https://playmario.github.io/HTML5_Client/assets/loading.gif
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\assets\loading.gif
+Content Type: image/gif
+
+Uri: https://playmario.github.io/HTML5_Client/assets/logo-large.png
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\assets\logo-large.png
+Content Type: image/png
+
+Uri: https://playmario.github.io/HTML5_Client/assets/modal.css
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\assets\modal.css
+Content Type: text/css
+
+Uri: https://playmario.github.io/HTML5_Client/assets/modal.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\assets\modal.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/favicon.ico
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://playmario.github.io/HTML5_Client/index.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\index.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/PlayMarioJas.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\PlayMarioJas.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/References/AreaSpawnr-0.2.0.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\References\AreaSpawnr-0.2.0.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/References/AudioPlayr-0.2.1.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\References\AudioPlayr-0.2.1.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/References/ChangeLinr-0.2.0.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\References\ChangeLinr-0.2.0.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/References/DeviceLayr-0.2.0.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\References\DeviceLayr-0.2.0.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/References/EightBittr-0.2.0.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\References\EightBittr-0.2.0.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/References/FPSAnalyzr-0.2.1.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\References\FPSAnalyzr-0.2.1.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/References/GamesRunnr-0.2.0.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\References\GamesRunnr-0.2.0.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/References/GameStartr-0.2.0.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\References\GameStartr-0.2.0.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/References/GroupHoldr-0.2.1.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\References\GroupHoldr-0.2.1.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/References/InputWritr-0.2.0.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\References\InputWritr-0.2.0.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/References/ItemsHoldr-0.2.1.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\References\ItemsHoldr-0.2.1.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/References/js_beautify.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\References\js_beautify.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/References/LevelEditr-0.2.0.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\References\LevelEditr-0.2.0.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/References/MapsCreatr-0.2.1.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\References\MapsCreatr-0.2.1.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/References/MapScreenr-0.2.1.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\References\MapScreenr-0.2.1.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/References/MathDecidr-0.2.0.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\References\MathDecidr-0.2.0.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/References/ModAttachr-0.2.2.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\References\ModAttachr-0.2.2.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/References/NumberMakr-0.2.2.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\References\NumberMakr-0.2.2.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/References/ObjectMakr-0.2.2.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\References\ObjectMakr-0.2.2.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/References/PixelDrawr-0.2.0.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\References\PixelDrawr-0.2.0.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/References/PixelRendr-0.2.0.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\References\PixelRendr-0.2.0.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/References/QuadsKeepr-0.2.1.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\References\QuadsKeepr-0.2.1.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/References/ScenePlayr-0.2.0.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\References\ScenePlayr-0.2.0.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/References/StringFilr-0.2.1.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\References\StringFilr-0.2.1.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/References/ThingHittr-0.2.0.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\References\ThingHittr-0.2.0.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/References/TimeHandlr-0.2.0.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\References\TimeHandlr-0.2.0.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/References/TouchPassr-0.2.0.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\References\TouchPassr-0.2.0.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/References/UsageHelpr-0.2.0.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\References\UsageHelpr-0.2.0.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/References/UserWrappr-0.2.0.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\References\UserWrappr-0.2.0.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/References/WorldSeedr-0.2.0.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\References\WorldSeedr-0.2.0.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/settings/audio.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\settings\audio.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/settings/collisions.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\settings\collisions.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/settings/devices.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\settings\devices.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/settings/editor.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\settings\editor.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/settings/events.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\settings\events.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/settings/generator.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\settings\generator.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/settings/groups.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\settings\groups.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/settings/help.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\settings\help.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/settings/input.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\settings\input.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/settings/items.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\settings\items.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/settings/maps.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\settings\maps.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/settings/maps/1-1.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\settings\maps\1-1.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/settings/maps/1-2.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\settings\maps\1-2.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/settings/maps/1-3.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\settings\maps\1-3.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/settings/maps/1-4.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\settings\maps\1-4.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/settings/maps/2-1.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\settings\maps\2-1.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/settings/maps/2-2.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\settings\maps\2-2.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/settings/maps/2-3.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\settings\maps\2-3.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/settings/maps/2-4.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\settings\maps\2-4.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/settings/maps/3-1.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\settings\maps\3-1.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/settings/maps/3-2.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\settings\maps\3-2.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/settings/maps/3-3.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\settings\maps\3-3.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/settings/maps/3-4.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\settings\maps\3-4.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/settings/maps/4-1.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\settings\maps\4-1.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/settings/maps/4-2.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\settings\maps\4-2.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/settings/maps/4-3.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\settings\maps\4-3.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/settings/maps/4-4.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\settings\maps\4-4.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/settings/maps/5-1.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\settings\maps\5-1.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/settings/maps/5-2.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\settings\maps\5-2.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/settings/maps/5-3.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\settings\maps\5-3.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/settings/maps/5-4.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\settings\maps\5-4.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/settings/maps/6-1.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\settings\maps\6-1.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/settings/maps/6-2.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\settings\maps\6-2.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/settings/maps/6-3.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\settings\maps\6-3.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/settings/maps/6-4.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\settings\maps\6-4.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/settings/maps/7-1.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\settings\maps\7-1.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/settings/maps/7-2.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\settings\maps\7-2.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/settings/maps/7-3.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\settings\maps\7-3.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/settings/maps/7-4.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\settings\maps\7-4.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/settings/maps/8-1.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\settings\maps\8-1.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/settings/maps/8-2.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\settings\maps\8-2.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/settings/maps/8-3.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\settings\maps\8-3.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/settings/maps/8-4.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\settings\maps\8-4.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/settings/maps/Random.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\settings\maps\Random.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/settings/math.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\settings\math.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/settings/mods.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\settings\mods.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/settings/objects.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\settings\objects.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/settings/quadrants.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\settings\quadrants.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/settings/renderer.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\settings\renderer.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/settings/runner.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\settings\runner.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/settings/scenes.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\settings\scenes.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/settings/sprites.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\settings\sprites.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/settings/touch.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\settings\touch.js
+Content Type: application/javascript
+
+Uri: https://playmario.github.io/HTML5_Client/settings/ui.js
+File Name: C:\Downloaded Web Sites\playmario.github.io\HTML5_Client\settings\ui.js
+Content Type: application/javascript
+
