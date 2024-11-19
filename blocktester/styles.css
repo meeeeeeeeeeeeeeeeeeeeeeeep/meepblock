@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+#results {
+    margin-top: 20px;
+}
+
+.url-result {
+    margin-bottom: 10px;
+}
+
+.url-result span {
+    font-weight: bold;
+}
+
+.url-result .loading {
+    color: blue;
+}
+
+.url-result .blocked {
+    color: red;
+}
+
+.url-result .unblocked {
+    color: green;
+}

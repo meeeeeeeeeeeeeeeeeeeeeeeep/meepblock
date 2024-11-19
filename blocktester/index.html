@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>URL Block Tester</title>
+    <style>
+        .unblocked { color: green; }
+        .blocked { color: red; }
+        .unblocked-redirect { color: orange; }
+    </style>
+</head>
+<body>
+    <h1>URL Block Tester</h1>
+    <div id="results"></div>
+
+    <script>
+        async function startTesting() {
+            const container = document.getElementById('results');
+            container.innerHTML = ''; // Clear previous results
+
+            try {
+                // Fetch the urls.txt file from the current directory (served by your server)
+                const response = await fetch('urls.txt');
+
+                if (!response.ok) {
+                    container.innerHTML = 'Failed to load URLs from urls.txt';
+                    return;
+                }
+
+                const text = await response.text();
+
+                // Split the file content into an array of URLs
+                const urls = text.split('\n').map(url => url.trim()).filter(url => url !== '');
+
+                if (urls.length === 0) {
+                    container.innerHTML = 'No URLs found in urls.txt!';
+                    return;
+                }
+
+                // Display message indicating the start of testing
+                container.innerHTML = 'Starting tests...';
+
+                // Handle testing all URLs concurrently using Promise.all
+                const results = await Promise.all(urls.map(url => checkUrl(url)));
+
+                // Display the results
+                results.forEach((result, index) => {
+                    const resultDiv = document.createElement('div');
+                    resultDiv.textContent = `Testing ${urls[index]}... ${result.status}`;
+                    resultDiv.className = result.status.toLowerCase().replace(/\s+/g, '-');
+                    container.appendChild(resultDiv);
+                });
+            } catch (error) {
+                console.error('Error fetching urls.txt:', error);
+                container.innerHTML = 'Error loading the URL list.';
+            }
+        }
+
+        async function checkUrl(url) {
+            try {
+                const response = await fetch(url, {
+                    method: 'GET',
+                    mode: 'no-cors',  // This makes the request but the response will be opaque
+                });
+
+                // Since the response is opaque, we can't access the status or headers, but we can assume it was successful if no error occurred
+                return { status: 'Unblocked' };
+            } catch (error) {
+                // Handle errors when they occur
+                return { status: `Blocked (Error: ${error.message})` };
+            }
+        }
+
+        startTesting(); // Start testing when the page loads
+    </script>
+</body>
+</html>
